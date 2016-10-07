@@ -1,4 +1,4 @@
-# vue-with-web-components
+# vuejs2-with-polymer
 
 > A Vue.js project with Web Components
 
